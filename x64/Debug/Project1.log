@@ -1,0 +1,12 @@
+﻿  Source.cpp
+F:\Project1\Source.cpp(33,33): warning C4305: 'argument': truncation from 'double' to 'T'
+F:\Project1\Source.cpp(33,33): warning C4305:         with
+F:\Project1\Source.cpp(33,33): warning C4305:         [
+F:\Project1\Source.cpp(33,33): warning C4305:             T=float
+F:\Project1\Source.cpp(33,33): warning C4305:         ]
+F:\Project1\Source.cpp(33,28): warning C4305: 'argument': truncation from 'double' to 'T'
+F:\Project1\Source.cpp(33,28): warning C4305:         with
+F:\Project1\Source.cpp(33,28): warning C4305:         [
+F:\Project1\Source.cpp(33,28): warning C4305:             T=float
+F:\Project1\Source.cpp(33,28): warning C4305:         ]
+  Project1.vcxproj -> F:\Project1\x64\Debug\Project1.exe
